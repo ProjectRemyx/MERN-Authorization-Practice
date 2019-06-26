@@ -25,4 +25,5 @@ June 26, 2019 (Begin Development)
 - Connected to Db
 - Created additional API endpoints
 - Created model for users table
-- Edited user api endpooint to include validation
+- Edited user api end point to include validation
+- Created salt, hashed password and save to db
