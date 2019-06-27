@@ -1,4 +1,4 @@
-# Spently
+# MERN Authorization/Practice
 An application made to solidify concepts learned using MongoDb, Express, React and Node.js. 
 
 Change Log:
