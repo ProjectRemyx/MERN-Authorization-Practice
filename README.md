@@ -27,3 +27,5 @@ June 26, 2019 (Begin Development)
 - Created model for users table
 - Edited user api end point to include validation
 - Created salt, hashed password and save to db
+- Registration completed incorporating JWT
+- Created Get API request for auth.js which takes the de-coded user id and queries the database for the user's information
