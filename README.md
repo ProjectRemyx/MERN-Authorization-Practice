@@ -29,3 +29,4 @@ June 26, 2019 (Begin Development)
 - Created salt, hashed password and save to db
 - Registration completed incorporating JWT
 - Created Get API request for auth.js which takes the de-coded user id and queries the database for the user's information
+- Sign in user post request completed
