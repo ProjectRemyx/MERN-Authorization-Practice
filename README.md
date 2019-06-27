@@ -30,3 +30,5 @@ June 26, 2019 (Begin Development)
 - Registration completed incorporating JWT
 - Created Get API request for auth.js which takes the de-coded user id and queries the database for the user's information
 - Sign in user post request completed
+- Added profile model schema
+- Edited profile api endpoint for user's specific profile
